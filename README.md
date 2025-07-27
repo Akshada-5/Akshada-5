@@ -3,14 +3,28 @@
 
 🌐 Portfolio Website: [akshada-portfolio-tau.vercel.app](https://akshada-portfolio-tau.vercel.app)
 
-## 📬 Contact Me
-✉️ Email: akshadapawar4321@gmail.com
+## 👩‍💻 About Me
 
----
-- 🌱 Currently diving deeper into **AI Integration** and **DevOps**
-- 💬 Open to conversations about **Frontend Development**, **Cloud Solutions**, and **Building Scalable Projects**
-- 🧠 Actively working on **creative platforms powered by real-time AI**, designed to solve real-world challenges
-- ☕ Fun fact: *My code quality increases exponentially with a hot cup of chai!*
+🎓 **Education**  
+B.Tech in Computer Engineering from  
+**K.K. Wagh Institute of Engineering Education & Research, Nashik**
+
+🚀 **Currently Exploring**  
+🌐 AI Integration & ⚙️ DevOps
+
+🧑‍💼 **What I Do**  
+💻 Frontend Development | ☁️ Cloud Computing | 📱 Building Scalable Projects  
+🧠 Passionate about creating real-time AI-powered platforms that solve real-world problems
+
+🫖 **Fun Fact**  
+My code quality increases exponentially when there's a cup of chai nearby! ☕
+
+📫 **Reach Me At**  
+✉️ akshadapawar43@gmail.com
+
+🌐 **Portfolio Website**  
+🔗 [akshada-portfolio-tau.vercel.app](https://akshada-portfolio-tau.vercel.app/)
+
 
 ---
 
