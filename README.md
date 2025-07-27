@@ -2,9 +2,11 @@
 <h3 align="center">A Passionate Full Stack Developer and Cloud Enthusiast 🚀</h3>
 
 🌐 Portfolio Website: [akshada-portfolio-tau.vercel.app](https://akshada-portfolio-tau.vercel.app)
+
 ## 📬 Contact Me
 ✉️ Email: akshadapawar4321@gmail.com
 
+---
 - 🌱 Currently diving deeper into **AI Integration** and **DevOps**
 - 💬 Open to conversations about **Frontend Development**, **Cloud Solutions**, and **Building Scalable Projects**
 - 🧠 Actively working on **creative platforms powered by real-time AI**, designed to solve real-world challenges
@@ -49,7 +51,7 @@
 ---
 
 ### 🤝 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
   <a href="https://instagram.com/your-handle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="instagram" height="30" width="30" /></a>
