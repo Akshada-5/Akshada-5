@@ -6,18 +6,12 @@
 ## 👩‍💻 About Me
 
 🎓 **Education**  
-B.Tech in Computer Engineering from  
-**K.K. Wagh Institute of Engineering Education & Research, Nashik**
+Pursuing B.Tech in Computer Engineering from **K.K. Wagh Institute of Engineering Education & Research, Nashik**
 
-🚀 **Currently Exploring**  
-🌐 AI Integration & ⚙️ DevOps
-
-🧑‍💼 **What I Do**  
-💻 Frontend Development | ☁️ Cloud Computing | 📱 Building Scalable Projects  
-🧠 Passionate about creating real-time AI-powered platforms that solve real-world problems
-
-🫖 **Fun Fact**  
-My code quality increases exponentially when there's a cup of chai nearby! ☕
+🌱 Currently exploring the depths of **AI Integration** and **DevOps**
+- 💬 Ask me anything about **Frontend Development**, **Cloud Technologies**, or **Building Scalable Projects**
+- 💬 I’m passionate about developing **creative platforms with real-time AI features** that solve real-world problems
+- 💬 Fun fact: *My code improves dramatically when there's a cup of chai nearby!*
 
 📫 **Reach Me At**  
 ✉️ akshadapawar43@gmail.com
@@ -40,9 +34,9 @@ My code quality increases exponentially when there's a cup of chai nearby! ☕
 
 - 🥇 **Smart India Hackathon 2024** – Finalist  
 - 🏅 **Institution's Innovation Council (IIC)** – Winner  
-- 🎯 **GHR Hack 1.0** – Finalist  
-- 🚀 **HackOverFlow 3.0** – Finalist  
-- 📡 **IoT Mini Project Competition** – 3rd Place Winner  
+- 🏆 **GHR Hack 1.0** – Finalist  
+- 🏆 **HackOverFlow 3.0** – Finalist  
+- 🏆 **IoT Mini Project Competition** – 3rd Place Winner  
 
 ## 📜 Certifications
 
