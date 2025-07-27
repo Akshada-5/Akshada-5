@@ -22,7 +22,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshadaPawar&show_icons=true&theme=tokyonight" alt="Akshada's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshadaPawar&theme=tokyonight" alt="Akshada's Streak" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-5&layout=compact&theme=react)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-5&layout=compact&theme=tokyonight&langs_count=8&hide=html" alt="Top Languages" />
+
 </p>
 
 ---
