@@ -3,16 +3,16 @@
 
 🌐 Portfolio Website: [akshada-portfolio-tau.vercel.app](https://akshada-portfolio-tau.vercel.app)
 
-- 🌱 I’m currently learning **Next.js, AI Integration & DevOps**
-- 💬 Ask me about **Frontend, Tailwind, TypeScript & Project Building**
-- 🧠 I’m working on creative student-centric platforms with real-time AI features
+- 🌱 I’m currently learning **AI Integration & DevOps**
+- 💬 Ask me about **Frontend, Cloud & Project Building**
+- 🧠 I’m working on creative platforms with real-time AI features which solves real world problems
 - ⚡ Fun fact: *I write better code when I have chai ☕ nearby!*
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=ts,react.js,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask" />
 </p>
 
 ---
