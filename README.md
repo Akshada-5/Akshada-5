@@ -6,7 +6,7 @@
 🎓 **Education**  
    Pursuing B.Tech in Computer Engineering from **K.K. Wagh Institute of Engineering Education & Research, Nashik**
 
-- 💬 Currently exploring the depths of **AI Integration** and **DevOps**
+- 💬 Currently exploring the depths of **AI Integration** and **Cloud Technologies**
 - 💬 Ask me anything about **Frontend Development**, **Cloud Technologies**, or **Building Scalable Projects**
 - 💬 I’m passionate about developing **creative platforms with real-time AI features** that solve real-world problems
 - 💬 Fun fact: *My code improves dramatically when there's a cup of chai nearby!*
@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask,salesforce,Apex" />
 </p>
 
 
