@@ -21,15 +21,9 @@
 ---
 
 ### 🛠️ Languages and Tools:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask" alt="Tech Icons" />
-
-  <!-- Custom icons -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/salesforce.svg" width="40" alt="Salesforce" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/apex.svg" width="40" alt="Apex" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask,salesforce,apex" />
 </p>
-
 
 ---
 
