@@ -22,9 +22,8 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask,salesforce,Apex" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel,figma,git,github,html,css,js,nodejs,mongodb,python,c++,flask,salesforce,apex" />
 </p>
-
 
 ---
 
