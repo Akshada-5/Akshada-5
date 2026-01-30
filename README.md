@@ -17,7 +17,13 @@
 🌐 **Portfolio Website**  
 🔗 [akshada-portfolio-tau.vercel.app](https://akshada-portfolio-tau.vercel.app/)
 
+### 🚀 Currently @ Skillminds LLP
+**Software Engineer — Salesforce Developer**
 
+* 🔹 Crafting scalable Apex & LWC solutions on the Lightning Platform.
+* 🔹 Transforming manual hurdles into automated success stories with code and cloud.
+* 🔹 Logic-driven by day, Salesforce trailblazer by heart.
+[![Trailblazer Profile](https://img.shields.io/badge/Trailblazer-Profile-blue?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/o0bir59mwmx64t6bcp)
 ---
 
 ### 🛠️ Languages and Tools:
